@@ -38,11 +38,13 @@ body{
 .base-info .base-info-content{
     display: flex;
     flex-direction: column;
-    justify-content: center;
     width: 60%;
     margin: auto auto;
     padding-top: 4rem;
     height: 100%;
+}
+.base-info-content .logo{
+    margin-bottom: 5rem;
 }
 .base-img{
     flex: 1;
